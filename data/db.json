@@ -1,0 +1,74 @@
+{
+  "tasks": [
+    {
+       "id":1,
+       "title":"Go to Gym",
+       "description":"Just go everyday.",
+       "author":"Kevin",
+       "img": "/img/mario.png"
+    },
+    {
+       "id":2,
+       "title":"solve leet code problems",
+       "description":"Daily,atleast 5 problems mate!.",
+       "author":"Mr.robot",
+       "img": "/img/yoshi.png"
+    },
+    {
+       "id":3,
+       "title":"write that python script",
+       "description":"for email automation.",
+       "author":"Mr.kiki",
+       "img": "/img/peac.png"
+    },
+    {
+       "id":4,
+       "title":"Friend's Bday party",
+       "description":"3 days left for bhuvan's Bday.",
+       "author":"kevin",
+       "img": "/img/luigi.png"
+    },
+    {
+       "id":5,
+       "title":"Laptop shoppping",
+       "description":"Need a new lap mate, so you got to go for some lap shopping.",
+       "author":"Bruce",
+       "img": "/img/mario.png"
+    },
+    {
+       "id":6,
+       "title":"Gear Shopping",
+       "description":"Got to go for some gear shopping mate, there is combat going on!!!!.",
+       "author":"ghost",
+       "img": "/img/yoshi.png"
+    },
+    {
+       "id":7,
+       "title":"movie time",
+       "description":"Marvel's new is released, need to see it.",
+       "author":"Peach",
+       "img": "/img/peach.png"
+    },
+    {
+       "id":8,
+       "title":"to return the book",
+       "description":"the due time to return the book to the library is near.",
+       "author":"Logan",
+       "img": "/img/luigi.png"
+    },
+    {
+       "id":9,
+       "title":"Improve the design",
+       "description":"to decorate the kitchen's design.",
+       "author":"stacy",
+       "img": "/img/mario.png"
+    },
+    {
+       "id":10,
+       "title":"order some socks.",
+       "description":"Need to order some socks online, seriously!!!.",
+       "author":"Stanley",
+       "img": "/img/yoshi.png"
+    }
+ ]
+}
